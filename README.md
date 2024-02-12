@@ -1,4 +1,4 @@
 # demo
 Git Repository.
 <br>
-Author - Akash Vara
+Author - Akash S Vara
